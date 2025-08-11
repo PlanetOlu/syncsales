@@ -98,7 +98,7 @@ body {
 
 /* HERO */
 .hero {
-  background: var(--light) url("/assets/hero.png") center/cover no-repeat;
+  background: var(--light) url("assets/hero.png") center/cover no-repeat;
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -577,6 +577,7 @@ button:focus {
 html {
   scroll-behavior: smooth;
 }
+
 
 
 
