@@ -102,6 +102,7 @@ body {
   padding: 4rem 0;
   text-align: center;
   position: relative;
+  z-index: 10; /* Adjust as needed */
 }
 .hero-overlay {
   position: absolute;
@@ -576,6 +577,7 @@ button:focus {
 html {
   scroll-behavior: smooth;
 }
+
 
 
 
